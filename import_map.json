@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "kafka": "https://deno.land/x/kafkasaur@v0.0.7/index.ts"
+  }
+}
